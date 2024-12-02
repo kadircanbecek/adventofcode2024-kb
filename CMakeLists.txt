@@ -25,3 +25,4 @@ include(cmake/cuda_common.cmake)
 # Add our subdirectories
 add_subdirectory(common)
 add_subdirectory(day01)
+add_subdirectory(day02)
